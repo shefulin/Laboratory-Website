@@ -1,9 +1,9 @@
 
 +++
 bio = ""
-date = "2016-07-12T15:52:22+02:00"
+date = "2018-07-12T15:52:22+02:00"
 id = "guests5"
-interests = ["医疗数据安全与隐私保护"]
+interests = ["医疗数据挖掘与分析"]
 name = "胡杨娟"
 portrait = "/portraits/huyangjuan.jpg"
 short_bio = ""
@@ -31,8 +31,11 @@ title = "5_yangjuan hu"
     link = "//github.com/"
 
 [[organizations]]
-    name = "生物医学工程专业"
+    name = "2023-2024年度研究生二等学业奖学金"
     role = "2023级硕士生"
 
 +++
-研究方向：医疗数据安全与隐私保护
+**研究方向：**  
+医疗数据挖掘与分析      
+**获奖情况：**  
+2023-2024年度研究生二等学业奖学金   

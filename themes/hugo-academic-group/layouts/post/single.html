@@ -12,10 +12,10 @@
 
         <div class="row">
             <div class="col-xs-6 article-published-at">
-                <i>Published on:</i> <p>{{ .Date.Format "2006-01-02" }}</p>
+                <i>出版时间：</i> <p>{{ .Date.Format "2006-01-02" }}</p>
             </div>
             <div class="col-xs-6 article-authors">
-                <i>Authors:</i>
+                <i>作者</i>
                 {{ partial "authors" .Params.authors }}
             </div>
         </div>

@@ -31,7 +31,9 @@ title = "2_jian ma"
     link = "//github.com/"
 
 [[organizations]]
-    name = "生物医学工程专业"
+    name = "安徽医科大学人文医学学院教师"
     role = "2021级硕士生"
 
 +++
+**毕业去向：**  
+安徽医科大学人文医学学院教师

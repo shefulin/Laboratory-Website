@@ -31,7 +31,9 @@ title = "3_zhiqiang zhang"
     link = "//github.com/"
 
 [[organizations]]
-    name = "生物医学工程专业"
+    name = "某三甲医院设备科"
     role = "2021级硕士生"
 
 +++
+**毕业去向：**  
+升学：某三甲医院设备科  

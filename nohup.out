@@ -1,0 +1,762 @@
+Building sites … 
+                   | EN  
+-------------------+-----
+  Pages            | 59  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 56  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 129 ms
+Watching for changes in /home/ubuntu/website/site/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/ubuntu/website/site/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://10.1.103.49:8080/ (bind address 10.1.103.49)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2024-11-29 14:19:25.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:19:53.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:19:58.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:20:00.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:22:24.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:23:08.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:23:10.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:24:04.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:24:36.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:25:00.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:25:09.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 7 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:25:37.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:25:47.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:25:55.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2024-11-29 14:26:06.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2024-11-29 15:20:51.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 15:21:13.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 15:21:22.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 15:21:32.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2024-11-29 15:21:37.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2024-11-29 15:21:38.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 15:21:47.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 15:21:56.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 17:42:16.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/sunchenyuan.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:20:03.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/mengli.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:21:42.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/zhaoyuchen.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:24:28.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/zhaoyuchen.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:25:38.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/shenjinlong.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:25:42.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/shenjinlong.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:26:48.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huyangjuan.md": WRITE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:27:19.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huanglishan.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:27:24.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huanglishan.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:27:40.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huanglishan.md": WRITE
+Total in 7 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:28:06.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 46 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:28:24.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huanglishan.md": WRITE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:28:41.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/guests_li.html": WRITE
+Total in 45 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:28:46.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/alumni_li.html": WRITE
+Total in 36 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:29:02.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huyangjuan.md": WRITE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:29:06.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huyangjuan.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:29:16.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huyangjuan.md": WRITE
+Total in 18 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:29:17.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huanglishan.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:30:55.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/hewanmeng.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:31:56.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huanglishan.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:08.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 48 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:12.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 47 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:14.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 47 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:18.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 50 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:19.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 44 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:25.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 49 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:32.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 43 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:34.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huyangjuan.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:35.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 47 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:40.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huyangjuan.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:32:48.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/huyangjuan.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:33:17.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/member_li.html": WRITE
+Total in 49 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:34:46.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/chenshikai.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:35:28.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/image.png": REMOVE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:35:39.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/chenshikai.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:36:31.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/wanghuiyi.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:36:47.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/wanghuiyi.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:37:43.983 +0800
+Source changed "/home/ubuntu/website/site/content/guests/luoshaobo.md": WRITE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:37:53.983 +0800
+Source changed "/home/ubuntu/website/site/content/guests/luoshaobo.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:37:58.983 +0800
+Source changed "/home/ubuntu/website/site/content/guests/luoshaobo.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:38:32.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/liuchengli.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:38:35.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/liuchengli.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:39:00.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/limoran.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:39:02.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/limoran.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:39:27.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/limoran.md": WRITE
+Total in 8 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:41:50.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/limoran.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:41:52.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/limoran.md": WRITE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:42:57.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/xujiru.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:42:59.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/xujiru.md": WRITE
+Total in 8 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:44:41.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/baoyiming.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:44:43.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/baoyiming.md": WRITE
+Total in 15 ms
+
+Change of config file detected, rebuilding site.
+2024-11-29 18:44:58.982 +0800
+Rebuilt in 77 ms
+
+Change of config file detected, rebuilding site.
+2024-11-29 18:45:02.982 +0800
+Rebuilt in 93 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:45:23.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/index.html": WRITE
+Total in 51 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:45:24.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/index.html": WRITE
+Total in 48 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:45:27.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/index.html": WRITE
+Total in 42 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:45:35.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/index.html": WRITE
+Total in 50 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:45:52.982 +0800
+Source changed "/home/ubuntu/website/site/content/alumni/gaogeng.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:46:00.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/index/members.html": WRITE
+Total in 44 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:46:10.982 +0800
+Source changed "/home/ubuntu/website/site/content/alumni/gaogeng.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:46:15.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/index/members.html": WRITE
+Total in 52 ms
+
+Change of config file detected, rebuilding site.
+2024-11-29 18:46:21.982 +0800
+Rebuilt in 80 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:48:53.982 +0800
+Source changed "/home/ubuntu/website/site/content/alumni/majian.md": WRITE
+Total in 16 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:49:02.982 +0800
+Source changed "/home/ubuntu/website/site/content/alumni/majian.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:49:04.982 +0800
+Source changed "/home/ubuntu/website/site/content/alumni/zhangzhiqiang.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:49:20.982 +0800
+Source changed "/home/ubuntu/website/site/content/alumni/zhangzhiqiang.md": WRITE
+Total in 17 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:49:57.982 +0800
+Source changed "/home/ubuntu/website/site/content/alumni/yuanchengcheng.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:50:01.982 +0800
+Source changed "/home/ubuntu/website/site/content/alumni/yuanchengcheng.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:54:28.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 55 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:54:37.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 50 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:55:26.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 40 ms
+ERROR 2024/11/29 18:55:27 Rebuild failed:
+
+ERROR 2024/11/29 18:55:27 Failed to render pages: render of "section" failed: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:36:11": execute of template failed: template: section/member.html:36:11: executing "section/member.html" at <partial "Recommendation_li" .>: error calling partial: partial "Recommendation_li" not found
+
+Change detected, rebuilding site.
+2024-11-29 18:55:29.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 41 ms
+ERROR 2024/11/29 18:55:30 Rebuild failed:
+
+ERROR 2024/11/29 18:55:30 Failed to render pages: render of "section" failed: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:36:11": execute of template failed: template: section/member.html:36:11: executing "section/member.html" at <partial "recommendation_li" .>: error calling partial: partial "recommendation_li" not found
+
+Change detected, rebuilding site.
+2024-11-29 18:55:33.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 41 ms
+ERROR 2024/11/29 18:55:34 Rebuild failed:
+
+ERROR 2024/11/29 18:55:34 Failed to render pages: render of "section" failed: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:36:11": execute of template failed: template: section/member.html:36:11: executing "section/member.html" at <partial "recommend_li" .>: error calling partial: partial "recommend_li" not found
+
+Change detected, rebuilding site.
+2024-11-29 18:56:06.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/re": CREATE
+Total in 33 ms
+ERROR 2024/11/29 18:56:07 Rebuild failed:
+
+ERROR 2024/11/29 18:56:07 Failed to render pages: render of "section" failed: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:36:11": execute of template failed: template: section/member.html:36:11: executing "section/member.html" at <partial "recommend_li" .>: error calling partial: partial "recommend_li" not found
+
+Change detected, rebuilding site.
+2024-11-29 18:56:19.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/re": RENAME
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/recommend_li.html": CREATE
+Total in 64 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:56:25.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/recommend_li.html": WRITE
+Total in 45 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:56:52.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 45 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:57:02.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend": CREATE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:57:06.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend": REMOVE
+Total in 14 ms
+adding created directory to watchlist /home/ubuntu/website/site/content/recommend
+
+Change detected, rebuilding site.
+2024-11-29 18:57:10.982 +0800
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:57:20.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": WRITE
+Total in 18 ms
+
+Change detected, rebuilding site.
+2024-11-29 18:57:55.982 +0800
+Source changed "/home/ubuntu/website/site/content/guests/baoyiming.md": WRITE
+Total in 8 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:00:35.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:00:36.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:04:55.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/recommend_li.html": WRITE
+Total in 47 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:04:56.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/recommend_li.html": WRITE
+Total in 48 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:04:58.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/partials/recommend_li.html": WRITE
+Total in 45 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:06:13.983 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 54 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:06:38.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 47 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:07:04.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 47 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:07:51.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 24 ms
+ERROR 2024/11/29 19:07:52 Rebuild failed:
+
+ERROR 2024/11/29 19:07:52 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:09:11.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": RENAME
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyinbiao.md": CREATE
+Total in 12 ms
+adding created directory to watchlist /home/ubuntu/website/site/themes/hugo-academic-group/layouts/recommend
+
+Change detected, rebuilding site.
+2024-11-29 19:11:57.982 +0800
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:12:24.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/recommend/single.html": WRITE
+Total in 33 ms
+ERROR 2024/11/29 19:12:25 Rebuild failed:
+
+ERROR 2024/11/29 19:12:25 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:12:37.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/recommend/single.html": REMOVE
+Total in 5 ms
+ERROR 2024/11/29 19:12:37 Rebuild failed:
+
+ERROR 2024/11/29 19:12:37 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:12:49.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/recommend": REMOVE
+Total in 29 ms
+ERROR 2024/11/29 19:12:50 Rebuild failed:
+
+ERROR 2024/11/29 19:12:50 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:12:57.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyinbiao.md": RENAME
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": CREATE
+Total in 10 ms
+adding created directory to watchlist /home/ubuntu/website/site/themes/hugo-academic-group/layouts/recommend
+
+Change detected, rebuilding site.
+2024-11-29 19:13:29.982 +0800
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:13:43.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/recommend/single.html": CREATE
+Total in 28 ms
+ERROR 2024/11/29 19:13:44 Rebuild failed:
+
+ERROR 2024/11/29 19:13:44 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:15:28.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/remmend.html": CREATE
+Total in 27 ms
+ERROR 2024/11/29 19:15:29 Rebuild failed:
+
+ERROR 2024/11/29 19:15:29 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:15:34.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/remmend.html": WRITE
+Total in 26 ms
+ERROR 2024/11/29 19:15:35 Rebuild failed:
+
+ERROR 2024/11/29 19:15:35 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:15:37.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/remmend.html": WRITE
+Total in 28 ms
+ERROR 2024/11/29 19:15:38 Rebuild failed:
+
+ERROR 2024/11/29 19:15:38 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:15:38.983 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/remmend.html": WRITE
+Total in 30 ms
+ERROR 2024/11/29 19:15:39 Rebuild failed:
+
+ERROR 2024/11/29 19:15:39 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:15:40.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/remmend.html": WRITE
+Total in 29 ms
+ERROR 2024/11/29 19:15:41 Rebuild failed:
+
+ERROR 2024/11/29 19:15:41 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:15:46.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/remmend.html": WRITE
+Total in 27 ms
+ERROR 2024/11/29 19:15:47 Rebuild failed:
+
+ERROR 2024/11/29 19:15:47 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:16:05.982 +0800
+Template added "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/recommend/single.html": WRITE
+Total in 29 ms
+ERROR 2024/11/29 19:16:06 Rebuild failed:
+
+ERROR 2024/11/29 19:16:06 Process: loading templates: "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html:48:1": parse failed: template: section/member.html:48: unexpected EOF
+
+Change detected, rebuilding site.
+2024-11-29 19:17:08.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/member.html": WRITE
+Total in 51 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:18:03.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": WRITE
+Total in 7 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:18:15.982 +0800
+Template changed "/home/ubuntu/website/site/themes/hugo-academic-group/layouts/section/remmend.html": WRITE
+Total in 53 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:18:18.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:19:23.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": RENAME
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyunbiaod": CREATE
+Total in 14 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:19:24.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyunbiaod": RENAME
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": CREATE
+Total in 8 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:19:32.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/baoyiming.md": RENAME
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao.md": CREATE
+Total in 14 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:19:33.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao copy.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:19:44.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao copy.md": RENAME
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting.md": CREATE
+Total in 10 ms

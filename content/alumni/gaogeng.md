@@ -31,7 +31,10 @@ title = "4_geng gao"
     link = "//github.com/"
 
 [[organizations]]
-    name = "生物医学工程专业"
+    name = "电子科技大学读博"
     role = "2021级硕士生"
 
 +++
+**毕业去向：**  
+升学：电子科技大学读博   
+

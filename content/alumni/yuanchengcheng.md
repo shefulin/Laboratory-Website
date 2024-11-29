@@ -31,8 +31,9 @@ title = "1_chengcheng yuan"
     link = "//github.com/"
 
 [[organizations]]
-    name = "生物医学工程专业"
+    name = "科大讯飞"
     role = "2020级硕士生"
 
 +++
-  
+**毕业去向：**  
+科大讯飞    
