@@ -760,3 +760,115 @@ Change detected, rebuilding site.
 Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao copy.md": RENAME
 Source changed "/home/ubuntu/website/site/content/recommend/yangtingting.md": CREATE
 Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:22:11.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting copy.md": WRITE
+Total in 5 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:22:23.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting.md": WRITE
+Total in 17 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:22:47.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting copy.md": RENAME
+Source changed "/home/ubuntu/website/site/content/recommend/wenhui.md": CREATE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:23:10.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:23:12.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/wenhui.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:23:40.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:23:49.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:28:57.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao.md": WRITE
+Total in 11 ms
+
+Change of Static files detected, rebuilding site.
+2024-11-29 19:30:25.983 +0800
+Syncing img/portraits/杨婷婷_20级医信_同济大学基础医学院.jpg to /
+Syncing img/portraits/文慧_20级医信_同济大学基础医学院.jpg to /
+Syncing img/portraits/周云彪_19级医信_东南大学生物医学工程.jpg to /
+
+Change detected, rebuilding site.
+2024-11-29 19:30:44.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:30:55.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:31:03.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/wenhui.md": WRITE
+Total in 11 ms
+
+Change of Static files detected, rebuilding site.
+2024-11-29 19:31:20.982 +0800
+File no longer exists in static dir, removing /img/portraits/周云彪_19级医信_东南大学生物医学工程.jpg
+Syncing img/portraits/zhouyunbiao.jpg to /
+
+Change of Static files detected, rebuilding site.
+2024-11-29 19:31:25.982 +0800
+File no longer exists in static dir, removing /img/portraits/杨婷婷_20级医信_同济大学基础医学院.jpg
+Syncing img/portraits/yangtingting.jpg to /
+
+Change of Static files detected, rebuilding site.
+2024-11-29 19:31:28.982 +0800
+File no longer exists in static dir, removing /img/portraits/文慧_20级医信_同济大学基础医学院.jpg
+Syncing img/portraits/wenhui.jpg to /
+
+Change detected, rebuilding site.
+2024-11-29 19:31:36.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/wenhui.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:31:43.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:31:51.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:32:28.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/wenhui.md": WRITE
+Total in 17 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:32:38.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:32:45.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/yangtingting.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2024-11-29 19:32:52.982 +0800
+Source changed "/home/ubuntu/website/site/content/recommend/zhouyuunbiao.md": WRITE
+Total in 9 ms

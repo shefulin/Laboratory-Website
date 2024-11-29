@@ -1,11 +1,11 @@
 
 +++
 bio = ""
-date = "2021-07-12T15:52:22+02:00"
+date = "2012-07-12T15:52:22+02:00"
 id = "guests13"
 interests = ["自然语言处理"]
-name = "杨婷婷"
-portrait = "/portraits/yangtingting.jpg"
+name = "文慧"
+portrait = "/portraits/wenhui.jpg"
 short_bio = ""
 short_name = ""
 title = "13_yiming bao"
